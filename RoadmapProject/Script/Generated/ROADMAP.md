@@ -1,7 +1,7 @@
 # Developer Roadmap of mine
 ## To do list
 
-- [ ] [`iOS Developer`](Resources/iOS_Developer/RESOURCES.md)
+- [x] [`iOS Developer`](Resources/iOS_Developer/RESOURCES.md)
     - [x] [`Practical knowledge`](Resources/iOS_Developer/Practical_knowledge/RESOURCES.md)
         - [x] [Getting started](Resources/iOS_Developer/Practical_knowledge/Getting_started/RESOURCES.md)
             - [ ] [First pet project ideas](Resources/iOS_Developer/Practical_knowledge/Getting_started/First_pet_project_ideas/RESOURCES.md)
