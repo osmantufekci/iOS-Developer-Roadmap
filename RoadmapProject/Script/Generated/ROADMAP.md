@@ -22,7 +22,7 @@
                 - [x] [Generics](Resources/iOS_Developer/Practical_knowledge/Languages/Swift/Generics/RESOURCES.md)
                 - [x] [`Protocols`](Resources/iOS_Developer/Practical_knowledge/Languages/Swift/Protocols/RESOURCES.md)
                 - [x] [`Structs`](Resources/iOS_Developer/Practical_knowledge/Languages/Swift/Structs/RESOURCES.md)
-                - [ ] [`Enums`](Resources/iOS_Developer/Practical_knowledge/Languages/Swift/Enums/RESOURCES.md)
+                - [x] [`Enums`](Resources/iOS_Developer/Practical_knowledge/Languages/Swift/Enums/RESOURCES.md)
                 - [ ] [Runtime](Resources/iOS_Developer/Practical_knowledge/Languages/Swift/Runtime/RESOURCES.md)
                     - [ ] [Method dispatch](Resources/iOS_Developer/Practical_knowledge/Languages/Swift/Runtime/Method_dispatch/RESOURCES.md)
         - [ ] [`Memory management`](Resources/iOS_Developer/Practical_knowledge/Memory_management/RESOURCES.md)
