@@ -30,7 +30,7 @@
             - [x] [`Value vs Reference type`](Resources/iOS_Developer/Practical_knowledge/Memory_management/Value_vs_Reference_type/RESOURCES.md)
             - [ ] [MRC](Resources/iOS_Developer/Practical_knowledge/Memory_management/MRC/RESOURCES.md)
             - [x] [`ARC`](Resources/iOS_Developer/Practical_knowledge/Memory_management/ARC/RESOURCES.md)
-                - [ ] [Weak references](Resources/iOS_Developer/Practical_knowledge/Memory_management/ARC/Weak_references/RESOURCES.md)
+                - [x] [Weak references](Resources/iOS_Developer/Practical_knowledge/Memory_management/ARC/Weak_references/RESOURCES.md)
             - [ ] [`Retain cycles`](Resources/iOS_Developer/Practical_knowledge/Memory_management/Retain_cycles/RESOURCES.md)
             - [ ] [Garbage collection](Resources/iOS_Developer/Practical_knowledge/Memory_management/Garbage_collection/RESOURCES.md)
             - [ ] [`Memory leaks`](Resources/iOS_Developer/Practical_knowledge/Memory_management/Memory_leaks/RESOURCES.md)
